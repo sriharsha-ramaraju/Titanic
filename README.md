@@ -1,4 +1,4 @@
-# Kaggle Rank: 6085 of 21,083 participants i.e in top 30% 
+# Kaggle Rank: 6085 of 21,020 participants i.e in top 30% 
 This notebook provides a through analysis of Titanic Survival Prediction
 Follwoing sections have been implemented
 ## 1. Imputing Missing Values
